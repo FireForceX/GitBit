@@ -15,7 +15,7 @@ Login with your username and password (PLEASE REMEMBER THEM!)
 
 Thanks for using replbit <3
 
-#Stay connected to me:
+# Stay connected to me:
 
 -SolarX- on scratch
 
